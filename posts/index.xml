@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Profile</title>
-    <link>https://hugo-profile.netlify.app/posts/</link>
-    <description>Recent content in Posts on Hugo Profile</description>
+    <title>Posts on Jun, Hu</title>
+    <link>https://huujuu.github.io/posts/</link>
+    <description>Recent content in Posts on Jun, Hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 21:06:14 +0800</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 09:49:54 +0800</lastBuildDate><atom:link href="https://huujuu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Read</title>
-      <link>https://hugo-profile.netlify.app/posts/read/</link>
-      <pubDate>Mon, 15 May 2023 21:06:14 +0800</pubDate>
+      <title>Using hugo &#43; github pages to build personal blog</title>
+      <link>https://huujuu.github.io/posts/buildingtheblog/</link>
+      <pubDate>Wed, 17 May 2023 09:49:54 +0800</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/posts/read/</guid>
-      <description>This is the first website </description>
+      <guid>https://huujuu.github.io/posts/buildingtheblog/</guid>
+      <description>I have always want to have a personal website to show my personal CV and to record the technical documentations. Recently, hugo has been shown up. After one day of trying, a personal website has been built. The detailed steps are listed below.
+Tools Hugo. To build the website locally. Github. To publish the website. SourceTree. To synchornize the local website to Github. Plantform Windows 11
+Steps Installing Hugo Opt.1. Download hugo singal .</description>
     </item>
     
   </channel>

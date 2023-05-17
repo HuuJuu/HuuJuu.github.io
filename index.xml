@@ -5,6 +5,18 @@
     <link>https://huujuu.github.io/</link>
     <description>Recent content on Jun, Hu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://huujuu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2023 09:49:54 +0800</lastBuildDate><atom:link href="https://huujuu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using hugo &#43; github pages to build personal blog</title>
+      <link>https://huujuu.github.io/posts/buildingtheblog/</link>
+      <pubDate>Wed, 17 May 2023 09:49:54 +0800</pubDate>
+      
+      <guid>https://huujuu.github.io/posts/buildingtheblog/</guid>
+      <description>I have always want to have a personal website to show my personal CV and to record the technical documentations. Recently, hugo has been shown up. After one day of trying, a personal website has been built. The detailed steps are listed below.
+Tools Hugo. To build the website locally. Github. To publish the website. SourceTree. To synchornize the local website to Github. Plantform Windows 11
+Steps Installing Hugo Opt.1. Download hugo singal .</description>
+    </item>
+    
   </channel>
 </rss>
