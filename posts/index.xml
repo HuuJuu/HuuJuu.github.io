@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Jun, Hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2023 21:35:41 +0800</lastBuildDate><atom:link href="https://huujuu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 10:44:34 +0800</lastBuildDate><atom:link href="https://huujuu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qt Connect Solts by Name</title>
+      <link>https://huujuu.github.io/posts/qtconnectsoltsbyname/</link>
+      <pubDate>Fri, 19 May 2023 10:44:34 +0800</pubDate>
+      
+      <guid>https://huujuu.github.io/posts/qtconnectsoltsbyname/</guid>
+      <description>Qt can automatically connect solts by name. As long as the function is called
+on_&amp;lt;object name&amp;gt;_&amp;lt;signal name&amp;gt;(&amp;lt;signal parameters&amp;gt;)
+If UI contains a btton called &amp;ldquo;btn_click&amp;rdquo;, I want to create a slot function to deal with the clicked action. All I need to do is create a function named
+on_btn_click_clcked()
+def on_btn_click_clcked(self): # your codes ... The signal name could be found in Qt Creater&amp;rsquo;s singal/slots editing model when draging and dropping to build a signal/slots connection.</description>
+    </item>
+    
     <item>
       <title>Underscore(_) in python</title>
       <link>https://huujuu.github.io/posts/python_qt/meaningofunderscore/</link>
